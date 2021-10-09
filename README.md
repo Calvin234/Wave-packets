@@ -1,4 +1,7 @@
 # Wave-packets
+
+Chunia_project.pdf contains my thesis
+
 coefs.m program that finds fourier coefficients
 
 icoefs.m program that finds function given fourier coefficients
